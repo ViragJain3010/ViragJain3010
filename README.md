@@ -1,36 +1,80 @@
-<h1 align="center">Hi 👋, I'm Virag Jain</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,12,30&height=180&section=header&text=Virag%20Jain&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=✨%20Full%20Stack%20Developer%20|%20Code%20Craftsman&descAlignY=55&descSize=18" />
+  <!-- <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=35a2eb&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Code+Craftsman;Problem+Solver" alt="Typing SVG" />
+  </p> -->
+<!-- #35a2eb -->
 
-- 🔭 I’m currently working on [Kodex](https://github.com/ViragJain3010/Kodex-Server)
+  <a href="https://linkedin.com/in/virag-jain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:viragjain3010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://easygoing-future-849224.framer.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=viragjain3010&label=Visitors&color=6366F1&style=for-the-badge&base=200&abbreviated=true" alt="Profile Views" />
+</div>
 
-- 🌱 I’m currently learning **Drupal, NodeJS**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viragjain3010&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
 
-- 👨‍💻 All of my projects are available [here](https://easygoing-future-849224.framer.app/)
+## 🚀 About Me
 
-- 📫 How to reach me **viragjain3010@gmail.com**
+> Building digital experiences that make a difference
 
-- ⚡ Fun fact **I think I am funny**
+- 🔭 Crafting [Kodex](https://github.com/ViragJain3010/Kodex-Server)
+- 🌱 Mastering **Drupal** and diving deeper into **NodeJS + React**
+- 👨‍💻 Explore my digital playground [here](https://easygoing-future-849224.framer.app/)
+- 📫 Drop me a line at **viragjain3010@gmail.com**
+- ⚡ Fun fact: I think I'm funny (and I'm probably right!)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/virag-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virag-jain" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack
 
-<h3 align="left">Technolgies I use:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viragjain3010&show_icons=true&locale=en&layout=compact" alt="viragjain3010" /></p>
+### Languages
+<p> <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,html,css,scss" /> </p> 
+<p> <code>JavaScript</code> <code>TypeScript</code> <code>C++</code> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SASS</code> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viragjain3010&show_icons=true&locale=en" alt="viragjain3010" /></p>
+  ### Frameworks & Libraries
+  <p> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,django,bootstrap,tailwind"/> </p> 
+  <p> <code>React</code> <code>Next.js</code> <code>Redux</code> <code>Node.js</code> <code>Express</code> <code>Django</code> <code>Bootstrap</code> <code>Tailwind</code> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viragjain3010&" alt="viragjain3010" /></p>
+  ### Databases
+   <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis"/> </p> 
+    <p> <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code> <code>Redis</code> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viragjain3010&label=Visitors&color=168bd4&style=flat&base=189&abbreviated=true" alt="viragjain3010" /> </p>
+  ### Tools & Technologies
+   <p> <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,figma,postman,jest"/> </p> 
+<p> <code>Git</code> <code>Docker</code> <code>Linux</code> <code>Bash</code> <code>Figma</code> <code>Postman</code> <code>Jest</code> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viragjain3010" alt="viragjain3010" /></a> </p>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viragjain3010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viragjain3010&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viragjain3010&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viragjain3010/viragjain3010/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viragjain3010/viragjain3010/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/viragjain3010/viragjain3010/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,30&height=120&section=footer" />
+</div>
