@@ -28,3 +28,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viragjain3010&label=Visitors&color=168bd4&style=flat&base=189&abbreviated=true" alt="viragjain3010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viragjain3010" alt="viragjain3010" /></a> </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viragjain3010/viragjain3010/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viragjain3010/viragjain3010/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/viragjain3010/viragjain3010/output/github-snake.svg" />
+</picture>
