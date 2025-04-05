@@ -61,12 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viragjain3010&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viragjain3010&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
-
 ## 🐍 Contribution Graph
 
 <picture>
