@@ -26,7 +26,7 @@
 
 > Building digital experiences that make a difference
 
-- 🔭 Crafting [Kodex](https://github.com/ViragJain3010/Kodex-Server)
+- 🔭 Crafting [Kodex](https://github.com/ViragJain3010/Kodex)
 - 🌱 Mastering **Drupal** and diving deeper into **NodeJS + React**
 - 🌐 Explore my digital playground [here](https://easygoing-future-849224.framer.app/)
 - 📫 Drop me a line at **viragjain3010@gmail.com**
