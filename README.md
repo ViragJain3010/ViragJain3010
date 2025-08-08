@@ -11,7 +11,7 @@
   <a href="mailto:viragjain3010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://easygoing-future-849224.framer.app/" target="_blank">
+  <a href="https://viragjain.framer.website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
   </a>
   
@@ -28,7 +28,7 @@
 
 - 🔭 Crafting [Kodex](https://github.com/ViragJain3010/Kodex)
 - 🌱 Learning about Tech and AI
-- 🌐 Explore my digital playground [here](https://easygoing-future-849224.framer.app/)
+- 🌐 Explore my digital playground [here](https://viragjain.framer.website/)
 - 📫 Drop me a line at **viragjain3010@gmail.com**
 - ⚡ Fun fact: I think I'm funny (and I'm probably right!)
 
